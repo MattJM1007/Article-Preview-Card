@@ -36,6 +36,7 @@ main{
     max-height: 280px;
     display: flex;
     border-radius: 0.8rem;
+    box-shadow: 0 40px 40px -10px hsl(210,29%,84%,50%);
 }
 
 .product-img{
