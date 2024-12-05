@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MattJM1007/Article-Preview-Card)
-- Live Site URL: [Add live site URL here](https://mattjm1007.github.io/Article-Preview-Card/)
+- Solution URL: [click me!](https://github.com/MattJM1007/Article-Preview-Card)
+- Live Site URL: [click me too!](https://mattjm1007.github.io/Article-Preview-Card/)
 
 ## My process
 
@@ -54,4 +54,4 @@ I would like try using the anchor property in CSS to position the social section
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MattJM1007)
+- Frontend Mentor - [@MattJM1007](https://www.frontendmentor.io/profile/MattJM1007)
